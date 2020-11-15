@@ -37,5 +37,4 @@ PrizeCrystal.propTypes = {
     itemId: PropTypes.number.isRequired,
     count: PropTypes.number.isRequired,
 };
-
 export default PrizeCrystal;
